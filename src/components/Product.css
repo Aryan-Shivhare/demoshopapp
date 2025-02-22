@@ -1,0 +1,9 @@
+.product {
+    background-color:steelblue;
+    padding: 15px 10px;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    border-radius: 10px;
+    border-style:groove;
+}
